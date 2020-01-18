@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"dependencies": {
+		"discord.js": "latest",
+		"enmap": "latest",
+		"fs": "latest"
+	}
+}
